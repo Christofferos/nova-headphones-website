@@ -1,2 +1,6 @@
 # nova-headphones-website
-This is a product website created as an template to show possible clients that want me to build them a website. 
+This is a product website created to show clients what front-end websites I can make.
+<br>Link: https://novaheadphones.netlify.app/
+
+## Preview image of front page
+
